@@ -10,3 +10,24 @@ equal to radius r. Hence, we do not need to iterate over all particles twice (n^
 but only need to iterate over all particles once then particles within blocks 
 nearby (n*m).
 
+## 🔰 Commit Emoji Guide
+
+| Emoji          | Meaning        |
+| -------------- | -------------- |
+| :bug:          | Bugfix         |
+| :package:      | Dependency     |
+| :no_entry:     | Deprecation    |
+| :book:         | Documentation  |
+| :sparkles:     | Features       |
+| :construction: | In-Progress    |
+| :zap:          | Performance    |
+| :recycle:      | Refactoring    |
+| :lock:         | Security       |
+| :test_tube:    | Tests          |
+| :pencil:       | Typos          |
+| :lipstick:     | UI / Cosmetic  |
+| :bookmark:     | Version        |
+|                |                |
+| :tada:         | Initial Commit |
+| :rocket:       | Release        |
+| :rewind:       | Revert Changes |
